@@ -23,7 +23,7 @@ public class UserTest {
 
         System.out.println("\n...Trying to add Ben again...");
         alex.addFollowee("Ben");    
-
+        
         System.out.println("\n...Trying to add Or, Zohar, Dror, Josh, Idan, Uri, Maya, and Dan to Alex...");
         alex.addFollowee("Or");
         alex.addFollowee("Zohar");
